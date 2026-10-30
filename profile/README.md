@@ -2,7 +2,7 @@
 
 This is Pago's repository. 
 
-If you got here, we got great news for you, we're hiring. Check the available positions [here](https://pago.ro/#section-13).
+If you got here, we got great news for you, we're hiring. Check the available positions [here](https://www.pago.ro/jobs)).
 
 <!--
 
